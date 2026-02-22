@@ -2,26 +2,16 @@
 
 # Pop Word
 
-<h3>How far can you go?</h3>
+<h3>Pop bubbles, spell words and master the challenge in this immersive VR puzzler!</h3>
 <p>Pop Word is a casual VR game where you have to pop the letters of a word in order before the time expires</p>
-<p>Dodge obstacles with lightning reflexes, face increasing speed and intensity, and challenge yourself in a game that needs precision and focus.</p>
-<h3>💡 Highlights:</h3>
+<p>The game combines the satisfying haptic thrill of popping bubbles with the brain-teasing challenge of word puzzles. Surrounded by a minimalist abstract aesthetic, your mission is simple but addictive: pop the floating letter-sphere in the correct order.</p>
+<h3>💡 Key Features:</h3>
 <ul>
- <li>🎚 Multiple difficulties – from easy to hard, tailor the challenge to your skills.</li>
- <li>🏁 Unlockable checkpoints – progress further and unlock new starting points to jump right back into the action.</li>
- <li>🏆 Online leaderboards – compete globally with dedicated rankings for each checkpoint and difficulty.</li>
- <li>⚡ Dynamic gameplay – ever-changing speed, tight passages, and complex obstacles make every run unique.</li>
+ <li> Satisfying VR Gameplay: – Use your hands (or your laser sights) to pop bubbles with precision and speed.</li>
+ <li> Master the Vocabulary: – Progress through increasingly difficult words.</li>
+ <li> Atmospheric Immersion: – Lose yourself in a stunning, minimalist environment inspired by the best of abstract VR aesthetics.</li>
+ <li> Built for Comfort: – Play at your own pace in a seamless, stationary experience that’s perfect for all VR comfort levels.</li>
  </ul>
-<h3>🎨 Customize:</h3>
-<ul>
- <li>Customize your experience: change the environment and the obstacles, going from meadows and beaches to space ships and abstract spaces</li>
-</ul>
-<h3>🔁 Perfect for:</h3>
-<ul>
- <li>Players who love quick and intense challenges</li>
- <li>Competitive gamers chasing the top spot</li>
- <li>Casual players looking for a fast but engaging VR experience</li>
-</ul>
 <p>
 <a href="https://www.meta.com/experiences/vr/1234567890" target="_blank" style="
     display: inline-block;
