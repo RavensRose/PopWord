@@ -1,0 +1,49 @@
+Privacy Policy
+Last updated: February 22, 2026
+
+Introduction
+This Privacy Policy applies to the game Pop Word. We value your privacy and want to be transparent about how we handle your information.
+
+Data Collection and Use
+Pop Word does not directly collect, store, or share personal data with the developer.
+The game does not use advertising, third-party logins, external analytics, leaderboards, or cloud save features.
+
+However, to function on the Meta Quest platform, the system may rely on basic Meta Quest platform services which process certain technical data:
+
+Platform Analytics
+Meta may provide anonymized, aggregated analytics to the developer through the Developer Dashboard. This includes:
+
+Number of unique users
+
+Device types (e.g., Quest 2, Quest 3) and OS versions
+
+Regional distribution (country level)
+
+Session duration and performance metrics
+
+These reports are strictly for performance monitoring and do not contain personally identifiable information.
+
+Internet Access and Permissions
+While Pop Word is designed to be played primarily offline, internet connectivity may be used by the Meta Quest system for standard platform updates or basic analytics reporting as described above. No personal data is transmitted to the developer's own servers or to third parties outside of Meta.
+
+Data Deletion Requests
+Because Pop Word does not store personal data or user accounts on private servers, there is no developer-side database from which to delete information.
+
+Any platform-level data managed by Meta can be addressed through:
+
+Your Meta account settings → Meta Privacy Policy – Data Rights
+
+Or by contacting the developer for guidance at: 📧 ravensrosedev@gmail.com
+
+Children’s Privacy
+Pop Word does not knowingly collect personal information from children. Any technical data processed for app stability is handled exclusively by Meta according to their safety guidelines for VR users.
+
+Data Responsibility
+The developer does not access, collect, or use any personal data from players. All underlying platform data handling is managed by Meta according to their policies.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Updates will be posted within the app or on the store page with a new revision date.
+
+Contact Us
+If you have questions about this Privacy Policy, please contact me at:
+📧 ravensrosedev@gmail.com
