@@ -26,5 +26,5 @@
     ▶️ Play on Meta Quest Store
  </a>
 </p>
-📜 [Privacy Policy](Privacy Policy.txt)  
+📜 [Privacy Policy](PrivacyPolicy.txt)  
 📧 Contact: ravensrosedev@gmail.com
